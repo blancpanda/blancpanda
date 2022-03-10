@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 ## Posts
 
 <!--[START POSTS]-->
+- ![](img/zenn.svg) [続・Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/forked-jetstream-inertia-i18n)
+- ![](img/zenn.svg) [Let's Encrypt から期限切れるよメールが来る件](https://zenn.dev/blancpanda/articles/amazon-linux2-lets-encrypt-cron)
+- ![](img/zenn.svg) [iOS 15 の "即時通知"を送りたいと言われた話](https://zenn.dev/blancpanda/articles/time-sensitive-notifications)
+- ![](img/zenn.svg) [Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/jetstream-vue-i18n)
 <!--[END POSTS]-->
 
 ## Summary
