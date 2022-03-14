@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Posts
 
 <!--[START POSTS]-->
+- ![](img/zenn.svg) [ラズパイ 4 に Laravel の実行環境を作る](https://zenn.dev/blancpanda/articles/raspi-laravel)
 - ![](img/zenn.svg) [ただの"ましかく"な箱が時々欲しくなる](https://zenn.dev/blancpanda/articles/square-container)
 - ![](img/zenn.svg) [続・Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/forked-jetstream-inertia-i18n)
 - ![](img/zenn.svg) [Let's Encrypt から期限切れるよメールが来る件](https://zenn.dev/blancpanda/articles/amazon-linux2-lets-encrypt-cron)
