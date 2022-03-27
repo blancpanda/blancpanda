@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ## Posts
 
 <!--[START POSTS]-->
+- ![](img/zenn.svg) [Laravel: APIの例外はJSONを返そう](https://zenn.dev/blancpanda/articles/laravel-api-exception-renderer)
+- ![](img/zenn.svg) [私的 Laravel 用 Docker 構成 2022](https://zenn.dev/blancpanda/articles/docker-laravel-2022)
 - ![](img/zenn.svg) [Postman で Firebase Authentication の トークンを取得する](https://zenn.dev/blancpanda/articles/postman-firebase-auth)
 - ![](img/zenn.svg) [Web API のレスポンスについて考える](https://zenn.dev/blancpanda/articles/api-response)
 - ![](img/zenn.svg) [ラズパイ 4 に Laravel の実行環境を作る](https://zenn.dev/blancpanda/articles/raspi-laravel)
