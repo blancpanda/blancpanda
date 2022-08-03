@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Posts
 
 <!--[START POSTS]-->
+- ![](img/zenn.svg) [Vite版 Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/vite-jetstream-vue-i18n)
 - ![](img/zenn.svg) [Laravel: APIの例外はJSONを返そう](https://zenn.dev/blancpanda/articles/laravel-api-exception-renderer)
 - ![](img/zenn.svg) [私的 Laravel 用 Docker 構成 2022](https://zenn.dev/blancpanda/articles/docker-laravel-2022)
 - ![](img/zenn.svg) [Postman で Firebase Authentication の トークンを取得する](https://zenn.dev/blancpanda/articles/postman-firebase-auth)
