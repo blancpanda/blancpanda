@@ -5,7 +5,7 @@ feed = feedparser.parse('https://zenn.dev/blancpanda/feed')
 
 dist_md = ''
 
-for entry in feed.entries:
+for entry in feed.entries[:10]:
     dist_md += f'- ![](img/zenn.svg) [{entry.title}]({entry.link})\n'
 
 with open('README.md', 'r') as file:
