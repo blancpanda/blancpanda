@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--[START POSTS]-->
 - ![](img/zenn.svg) [私的 Laravel Sail 構成](https://zenn.dev/blancpanda/articles/my-laravel-sail-vite)
-- ![](img/zenn.svg) [Github Actions を月初の日本時間0〜9時に実行したい](https://zenn.dev/blancpanda/articles/github-actions-cron-timezone-jst)
+- ![](img/zenn.svg) [GitHub Actions を月初の日本時間0〜9時に実行したい](https://zenn.dev/blancpanda/articles/github-actions-cron-timezone-jst)
 - ![](img/zenn.svg) [Vite版 Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/vite-jetstream-vue-i18n)
 - ![](img/zenn.svg) [Laravel: APIの例外はJSONを返そう](https://zenn.dev/blancpanda/articles/laravel-api-exception-renderer)
 - ![](img/zenn.svg) [私的 Laravel 用 Docker 構成 2022](https://zenn.dev/blancpanda/articles/docker-laravel-2022)
