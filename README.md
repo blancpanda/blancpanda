@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Posts
 
 <!--[START POSTS]-->
+- ![](img/zenn.svg) [Alexa スキル: かるたを読んでもらう](https://zenn.dev/blancpanda/articles/alexa-skill-carta)
 - ![](img/zenn.svg) [私的 Laravel Sail 構成](https://zenn.dev/blancpanda/articles/my-laravel-sail-vite)
 - ![](img/zenn.svg) [GitHub Actions を月初の日本時間0〜9時に実行したい](https://zenn.dev/blancpanda/articles/github-actions-cron-timezone-jst)
 - ![](img/zenn.svg) [Vite版 Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/vite-jetstream-vue-i18n)
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
 - ![](img/zenn.svg) [Web API のレスポンスについて考える](https://zenn.dev/blancpanda/articles/api-response)
 - ![](img/zenn.svg) [ラズパイ 4 に Laravel の実行環境を作る](https://zenn.dev/blancpanda/articles/raspi-laravel)
 - ![](img/zenn.svg) [ただの"ましかく"な箱が時々欲しくなる](https://zenn.dev/blancpanda/articles/square-container)
-- ![](img/zenn.svg) [続・Laravel Jetstream + Vue の多言語対応(i18n)](https://zenn.dev/blancpanda/articles/forked-jetstream-inertia-i18n)
 <!--[END POSTS]-->
 
 ## Summary
